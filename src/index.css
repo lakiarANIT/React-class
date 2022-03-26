@@ -1,0 +1,19 @@
+.highlight
+{
+    background-color: aqua;
+}
+.navbar-style
+{
+    background-color: rgb(101, 185, 16)!important;
+}
+.green-highlight
+{
+    color: rgb(9, 255, 173);
+    font-size: 40px;;
+
+}
+.red-highlight
+{
+    color: rgb(255, 9, 9);
+    font-size: 25px;;
+}
